@@ -2,6 +2,8 @@
 
 ## Purpose of this document
 
+Modified on 4/29 1:22pm
+
 This document is for Microsoft Certified Trainers (MCTs) who are teaching the **AZ-040T: Automating Administration with PowerShell** course.
 
 ### Course design
